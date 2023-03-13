@@ -9,3 +9,4 @@ This repo contains the Capstone final project assignment of the IBM Data scienti
 5. EDA with Visualization lab ([Access here](https://github.com/Emonskywalker/IBM-Watson-Capstone/blob/master/EDA%20with%20Visualization%20lab.ipynb))
 6. Interactive Visual Analytics with Folium lab ([Access here](https://github.com/Emonskywalker/IBM-Watson-Capstone/blob/master/Interactive%20Visual%20Analytics%20with%20Folium%20lab.ipynb))
 7. Machine Learning Prediction lab ([Access here](https://github.com/Emonskywalker/IBM-Watson-Capstone/blob/master/SpaceX_Machine%20Learning%20Prediction_Part_5.ipynb))
+8. Dashboard Application with Plotly Dash ([Access here](https://github.com/Emonskywalker/IBM-Watson-Capstone/blob/master/spacex_dashboard_app.py))
